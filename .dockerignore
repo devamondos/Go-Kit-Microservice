@@ -1,0 +1,11 @@
+.editorconfig
+.git
+*.md
+*.md
+LICENSE
+Makefile
+NOTICE
+*.md
+Jenkinsfile
+*.zip
+.gitignore

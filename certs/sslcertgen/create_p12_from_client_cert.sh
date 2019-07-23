@@ -1,0 +1,1 @@
+openssl pkcs12 -export -inkey clientkey.pem -in clientcert.pem -out clientcert.p12
